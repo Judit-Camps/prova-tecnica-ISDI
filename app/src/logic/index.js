@@ -1,7 +1,7 @@
-import get10Characters from "./get10Characters"
+import getManyCharacters from "./getManyCharacters"
 
 const logic = {
-    get10Characters
+    getManyCharacters
 }
 
 export default logic
